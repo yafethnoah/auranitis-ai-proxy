@@ -1,0 +1,14 @@
+{
+  "name": "auranitis-ai-proxy",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
